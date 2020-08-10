@@ -5,4 +5,4 @@ Grand Central allows you to centrally manage data collection from your Cloud Dat
 Visit the docs to get started : <a href="https://github.com/amiracle/splunk-grand-central-workshop/docs/index.md">Grand Central Workshop</a>.
 
 ## License Summary
-This sample code is made available under modified MIT license. See LICENSE file.
+This sample code is made available under a modified Creative Commons Zero v.1.0 Universal Licsense
